@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm ylbrrr</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
-- 🔭 I’m currently working on [CS2 Cheat PROJECTZX](http://projectzx/)
-
+- 🔭 I’m currently working on CS2 Cheat PROJECTZX
 - 🌱 I’m currently learning **php,react,vuejs**
 
 - ⚡ Fun fact **I just sucked my own dick**

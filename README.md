@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **php,react,vuejs**
 
-- 👨‍💻 All of my projects are available at [http://ylbrrr.projectzx.xyz](http://ylbrrr.projectzx.xyz)
-
-- 📄 Know about my experiences [http://ylbrrr.projectzx.xyz](http://ylbrrr.projectzx.xyz)
-
 - ⚡ Fun fact **I just sucked my own dick**
 
 <h3 align="left">Connect with me:</h3>

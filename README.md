@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ylbrrr</h1>
-<h3 align="center">A passionate frontend and backend developer from Romania</h3>
+<h3 align="center">A passionate frontend and backend developer from An</h3>
 
 - 🔭 I’m currently working on a youtube channel
 - 🌱 I’m currently learning **vue,mongo,java**

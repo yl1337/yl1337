@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a youtube channel
 - 🌱 I’m currently learning **vue,mongo,java**
-
+- 📌 My favorite Languages are **Python,C++,Html,Php**
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://discordapp.com/users/1221777939721617483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="an" height="30" width="40" /></a>
